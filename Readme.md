@@ -5,6 +5,11 @@ Happy coding!
 
 Font used is  **Product Sans** . To be only used for GDG purpose.
 
+You can get the assets in following formats
++ [png](https://github.com/gdgnewdelhi/branding/tree/master/assets/png)
++ [jpg](https://github.com/gdgnewdelhi/branding/tree/master/assets/jpg)
++ [svg](https://github.com/gdgnewdelhi/branding/tree/master/assets/svg)
+
 
 ### Facebook Banner Image
 ![Facebook Banner Image](https://github.com/gdgnewdelhi/branding/blob/master/assets/png/fb_banner.png)
