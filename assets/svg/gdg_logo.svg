@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="484px" height="830px" viewBox="0 0 484 830" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>gdg_logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="-54.1555987%" cy="-174.154426%" fx="-54.1555987%" fy="-174.154426%" r="402.157161%" id="radialGradient-1">
+            <stop stop-color="#FFCE4E" offset="0%"></stop>
+            <stop stop-color="#F5C337" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="-6.593919%" cy="-88.3500641%" fx="-6.593919%" fy="-88.3500641%" r="326.488856%" id="radialGradient-2">
+            <stop stop-color="#0DA960" offset="0%"></stop>
+            <stop stop-color="#05924B" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="-4.42276749%" cy="-2.56440874%" fx="-4.42276749%" fy="-2.56440874%" r="226.265021%" id="radialGradient-3">
+            <stop stop-color="#577EC0" offset="0%"></stop>
+            <stop stop-color="#557EBF" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="-35.1621493%" cy="-3.23098682%" fx="-35.1621493%" fy="-3.23098682%" r="261.057395%" id="radialGradient-4">
+            <stop stop-color="#E04B3F" offset="0%"></stop>
+            <stop stop-color="#CD382D" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="122.538745%" y1="50.0008476%" x2="-2.70910562%" y2="50.0008476%" id="linearGradient-5">
+            <stop stop-color="#231F20" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#F2F2F2" stop-opacity="0.25" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="49.9993392%" cy="50.0007232%" fx="49.9993392%" fy="50.0007232%" r="70.2931732%" id="radialGradient-6">
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.091" offset="8.96%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="branding" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logos" transform="translate(-370.000000, -2022.000000)">
+            <g id="gdg_logo" transform="translate(370.000000, 2022.000000)">
+                <g id="Group">
+                    <path d="M298.064,520.984 L112.16,829.792 L206.048,829.792 C228.284,829.792 255.872,814.204 267.344,795.064 L346.436,663.448 C355.772,644.176 355.448,616.084 344.78,598.288 L298.064,520.984 L298.064,520.984 Z" id="Shape" fill="url(#radialGradient-1)"></path>
+                    <path d="M213.092,380.32 C224.552,399.376 224.552,430.612 213.092,449.752 L4.28,798.88 C-3.784,816.124 4.592,829.792 25.316,829.792 L112.148,829.792 L298.052,520.984 L213.092,380.32 L213.092,380.32 Z" id="Shape" fill="url(#radialGradient-2)"></path>
+                    <path d="M25.316,0.208 C3.02,0.208 -5.848,15.868 5.624,34.936 L344.78,598.312 C355.448,616.096 355.772,644.188 346.436,663.472 L428.876,526.264 L112.196,0.208 L25.316,0.208 L25.316,0.208 Z" id="Shape" fill="url(#radialGradient-3)"></path>
+                    <path d="M474.788,380.32 L267.344,34.924 C255.872,15.856 228.272,0.196 206.048,0.196 L112.208,0.196 L428.888,526.252 L474.8,449.752 C486.26,430.624 486.26,399.376 474.788,380.32 L474.788,380.32 Z" id="Shape" fill="url(#radialGradient-4)"></path>
+                    <path d="M344.78,598.3 L213.092,380.32 C224.552,399.376 224.552,430.612 213.092,449.752 L166.736,526.96 L346.448,663.46 C355.772,644.188 355.448,616.096 344.78,598.3 L344.78,598.3 Z" id="Shape" fill="url(#linearGradient-5)"></path>
+                </g>
+                <path d="M474.788,380.32 L267.344,34.924 C255.872,15.856 228.272,0.196 206.048,0.196 L112.208,0.196 L25.328,0.196 C3.032,0.196 -5.836,15.856 5.636,34.924 L213.092,380.32 C224.552,399.376 224.552,430.612 213.092,449.752 L4.28,798.88 C-3.784,816.124 4.592,829.792 25.316,829.792 L112.148,829.792 L206.036,829.792 C228.272,829.792 255.86,814.204 267.332,795.064 L428.864,526.252 L474.776,449.752 C486.26,430.624 486.26,399.376 474.788,380.32 L474.788,380.32 Z" id="Shape" fill="url(#radialGradient-6)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
