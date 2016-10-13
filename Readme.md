@@ -20,6 +20,9 @@ You can get the assets in following formats
 ### GDG New Delhi Banner Logo
 ![GDG New Delhi Banner Logo](https://github.com/gdgnewdelhi/branding/blob/master/assets/png/gdg_newdelhi_banner_logo.png)
 
+### GDG New Delhi Square Logo
+![GDG New Delhi Square Logo](https://github.com/gdgnewdelhi/branding/blob/master/assets/png/gdg_newdelhi_logo_square.png)
+
 ### GDG New Delhi Bot Logo
 ![GDG New Delhi Bot Logo](https://github.com/gdgnewdelhi/branding/blob/master/assets/png/gdg_newdelhi_logo_bot.png)
 
