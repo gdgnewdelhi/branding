@@ -6,34 +6,34 @@ Happy coding!
 Font used is  **Product Sans** . To be only used for GDG purpose.
 
 You can get the assets in following formats
-+ [png](https://github.com/gdgnewdelhi/branding/tree/master/assets/png)
-+ [jpg](https://github.com/gdgnewdelhi/branding/tree/master/assets/jpg)
-+ [svg](https://github.com/gdgnewdelhi/branding/tree/master/assets/svg)
++ [png](/assets/png)
++ [jpg](/assets/jpg)
++ [svg](/assets/svg)
 
 
 ### Facebook Banner Image
-![Facebook Banner Image](https://github.com/gdgnewdelhi/branding/blob/master/assets/png/fb_banner.png)
+![Facebook Banner Image](/assets/png/fb_banner.png)
 
 ### Google+ Banner Image
-![Facebook Banner Image](https://github.com/gdgnewdelhi/branding/blob/master/assets/png/gplus_banner.png)
+![Facebook Banner Image](/assets/png/gplus_banner.png)
 
 ### GDG New Delhi Banner Logo
-![GDG New Delhi Banner Logo](https://github.com/gdgnewdelhi/branding/blob/master/assets/png/gdg_newdelhi_banner_logo.png)
+![GDG New Delhi Banner Logo](/assets/png/gdg_newdelhi_banner_logo.png)
 
 ### GDG New Delhi Square Logo
-![GDG New Delhi Square Logo](https://github.com/gdgnewdelhi/branding/blob/master/assets/png/gdg_newdelhi_logo_square.png)
+![GDG New Delhi Square Logo](/assets/png/gdg_newdelhi_logo_square.png)
 
 ### GDG New Delhi Bot Logo
-![GDG New Delhi Bot Logo](https://github.com/gdgnewdelhi/branding/blob/master/assets/png/gdg_newdelhi_logo_bot.png)
+![GDG New Delhi Bot Logo](/assets/png/gdg_newdelhi_logo_bot.png)
 
 ### GDG Logo
-![GDG Logo](https://github.com/gdgnewdelhi/branding/blob/master/assets/png/gdg_logo.png)
+![GDG Logo](/assets/png/gdg_logo.png)
 
 ### GDG Square Logo
-![GDG Square Logo](https://github.com/gdgnewdelhi/branding/blob/master/assets/png/gdg_logo_square.png)
+![GDG Square Logo](/assets/png/gdg_logo_square.png)
 
 ### GDG Square Logo Offcolor 
-![GDG Square Logo](https://github.com/gdgnewdelhi/branding/blob/master/assets/png/gdg_logo_square_offcolor.png)
+![GDG Square Logo](/assets/png/gdg_logo_square_offcolor.png)
 
 
 ###Please contact us
